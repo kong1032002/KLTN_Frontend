@@ -29,14 +29,17 @@
   </div> -->
   <div class="grid grid-cols-3 gap-5 bg-zinc-900 text-white p-10">
     <div class="col-span-1">
-      <div class="flex">
-        <p class="basis-1/2 font-bold text-2xl text-center text-sky-500 flex-col flex justify-center">RUGGUARD</p>
+      <div class="flex mb-3">
+        <p class="basis-1/2 font-bold text-2xl text-center text-sky-500 flex-col flex justify-center italic">
+          RUGGUARD
+        </p>
         <p class="basis-1/2 font-bold text-center border-l-2 border-sky-500 text-lg">
           RugPull <br> Predictor
         </p>
       </div>
       <div class="border-l-2 rounded border-zinc-500 p-5">
-        Test
+        <span class="font-semibold">Đề tài:</span>
+        Phát hiện lừa đảo Rug-pull trong hợp đồng thông minh Ethereum sử dụng phương pháp học máy
       </div>
     </div>
     <div class="col-span-1">
@@ -45,6 +48,10 @@
       <p class="">Facebook: <a target="_blank" href="https://www.facebook.com/NTKong1032002/"
           class="font-semibold">Nguyen Thanh
           Cong</a></p>
+    </div>
+    <div class="col-span-1">
+      <h1 class="font-bold text-xl border-l-4 border-sky-500 px-3 mb-3">Giảng viên hướng dẫn</h1>
+      <p>TS.Lê Khánh Trình</p>
     </div>
     <div class="d"></div>
   </div>
